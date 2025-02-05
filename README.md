@@ -1,2 +1,2 @@
-# ytbbg
-youtube_shorts_background
+#How to implement
+First, download Tampermonkey on Google Chrome
